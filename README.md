@@ -2,7 +2,7 @@
 - 👀 I’m so much interested in Web Development. 
 - 🌱 I’m currently learning Tailwind css. Will jump to Javascript soon.
 - 💞️ I’m looking to collaborate on something that fits my beginning skill at the moment.
-- 📫 How to reach me wait until the proper time arrives!
+- 📫 How to reach me wait until the right time comes!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: have the weirdest laugh in the world!
 
