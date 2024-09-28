@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sharif707 from Bangladesh
 - 👀 I’m so much interested in Web Development. 
-- 🌱 I’m currently learning Tailwind css. Will jump to Javascript soon.
+- 🌱 I’m currently learning JavaScript. Will jump to React soon.
 - 💞️ I’m looking to collaborate on something that fits my beginning skill at the moment.
 - 📫 How to reach me wait until the right time comes!
 - 😄 Pronouns: He/Him
