@@ -66,9 +66,9 @@
 ## 🔧 Tech Stack and Tools  
 
 
-
+## 🔧 Tech Stack and Tools 
 <div align="center">
-## 🔧 Tech Stack and Tools  
+ 
 | End        | Stack  |
 |------------|-------------------------------------------------|
 | **Frontend**  | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
