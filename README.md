@@ -1,12 +1,12 @@
 <!-- Banner Image -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/CpddkNQ1/sharif-profile.jpg" alt="Banner" width="100%" />
+  <img src="https://i.ibb.co/YOUR-BANNER-IMAGE-LINK" alt="Banner Image" width="100%" height="300" />
 </p>
 
-<p align="center">
-  <img src="https://i.ibb.co/YOUR_PROFILE_IMAGE.png" alt="Profile" width="150" 
-       style="border-radius: 50%; background-color: #2E2E2E; padding: 10px;" />
-</p>
+<!-- Name & Designation -->
+<h1 align="center">👨‍💻 Muhammad Sharif</h1>
+<h3 align="center">Frontend Developer | Web Developer | React Enthusiast</h3>
 
 
 <h1 align="center">👋 Hi, I'm Mohammad Sharif</h1>
@@ -45,7 +45,8 @@
 ###
 ## 🌟 About Me
 
-👋 Hey there! I'm Sharif , a **passionate Frontend developer** with a love for crafting elegant solutions to complex problems.  
+👋Hello! I'm **Mohammad Sharif**, a passionate Frontend **web developer** who loves crafting modern and user-friendly applications. 
+I specialize in **React, JavaScript, tailwindcss and other front-end development tools**, always striving to build efficient and scalable solutions.  
 
 💻 **What I Do:**  
 - 🚀 Building scalable and user-friendly applications  
