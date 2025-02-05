@@ -1,7 +1,7 @@
 <!-- Banner Image -->
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co.com/65164Nt/sharifselfies.jpg" alt="Banner Image" width="450" height="300" />
+  <img src="https://i.ibb.co.com/65164Nt/sharifselfies.jpg" alt="Banner Image" width="400" height="330" />
 </p>
 
 <!-- Name & Designation -->
