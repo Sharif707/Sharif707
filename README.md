@@ -1,12 +1,12 @@
 <!-- Banner Image -->
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/YOUR-BANNER-IMAGE-LINK" alt="Banner Image" width="100%" height="300" />
+  <img src="https://i.ibb.co.com/CpddkNQ1/sharif-profile.jpg" alt="Banner Image" width="100%" height="300" />
 </p>
 
 <!-- Name & Designation -->
-<h1 align="center">👨‍💻 Muhammad Sharif</h1>
-<h3 align="center">Frontend Developer | Web Developer | React Enthusiast</h3>
+<h1 align="center">👨‍💻 Mohammad Sharif</h1>
+<h3 align="center">Frontend Developer | Tech Enthusiast</h3>
 
 
 <h1 align="center">👋 Hi, I'm Mohammad Sharif</h1>
