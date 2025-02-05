@@ -87,11 +87,6 @@
 
 ## 📬 Let's Connect!
 
-<p align="center">
-  📧 **Email**: mdsh8692@gmail.com  
-  <br />
-  📞 **Phone**: +8801580515003 
-</p>
 
 <p align="center">
   <a href="mailto:mdsh8692@gmail.com">
