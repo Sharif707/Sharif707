@@ -87,12 +87,21 @@
 
 ## 📬 Let's Connect!
 
- 
-📧 **Email:** [My Email](mdsh8692@gmail.com)  
-💼 **LinkedIn:** [My LinkedIn Profile]([kedin.com/in/mohammad-sharif-b25346327/](https://www.linkedin.com/in/mohammad-sharif-b25346327/))  
-🐦 **Twitter:** [My X Handle](https://x.com/Sharif7O7)  
+<p align="center">
+  <a href="mailto:mdsh8692@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-sharif-b25346327/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Sharif7O7" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://github.com/sharif707" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
----
 
 ✨ **Thanks for stopping by!** Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech. 🚀  
 
