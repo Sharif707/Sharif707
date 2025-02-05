@@ -88,8 +88,17 @@
 ## 📬 Let's Connect!
 
 <p align="center">
+  📧 **Email**: mdsh8692@gmail.com  
+  <br />
+  📞 **Phone**: +8801580515003 
+</p>
+
+<p align="center">
   <a href="mailto:mdsh8692@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="tel:+8801580515003">
+    <img src="https://img.shields.io/badge/-Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mohammad-sharif-b25346327/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -101,6 +110,7 @@
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 
 ✨ **Thanks for stopping by!** Feel free to explore my repositories and reach out if you'd like to collaborate or chat about tech. 🚀  
