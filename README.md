@@ -66,7 +66,7 @@
 ## 🔧 Tech Stack and Tools  
 
 
-## 🔧 Tech Stack and Tools 
+
 <div align="center">
  
 | End        | Stack  |
