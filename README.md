@@ -53,9 +53,22 @@ I specialize in **React, JavaScript, tailwindcss and other front-end development
 - 🎨 Turning ideas into reality with clean, maintainable code  
 - 🔍 Always exploring new technologies and frameworks  
 
-📚 **Currently Learning:**  
-- 🤖 AI/ML and how it can revolutionize the tech world  
-- 🌐 Advanced web development techniques  
+### 📚 Currently Learning  
+
+🚀 **Building a Stronger Foundation in JavaScript**  
+🟡 Advanced ES6+ features (async/await, closures, prototypes)  
+🟡 Performance optimization & best practices  
+
+⚛️ **Going Deeper into React.js**  
+🔵 Advanced component patterns (HOCs, render props)  
+🔵 State management with Redux & Zustand  
+🔵 Server-side rendering (SSR) & static site generation (SSG)  
+
+🌐 **Exploring Next.js & Full-Stack Capabilities**  
+🟢 API Routes & Middleware  
+🟢 Dynamic Routing & ISR (Incremental Static Regeneration)  
+🟢 Authentication & Performance Optimization  
+
 
 🎯 **2025 Goals:**  
 - 🌱 Contribute to open-source projects  
